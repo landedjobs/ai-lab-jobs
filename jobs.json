@@ -1,5 +1,82 @@
 [
   {
+    "dedupeKey": "job:28f6bb09-bc8c-40e4-9319-792611911138",
+    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
+    "company": "Harvey",
+    "companyDomain": "harvey.ai",
+    "role": "Senior AI Enablement Engineer, GTM",
+    "applyUrl": "https://go.landed.jobs/bprylcr",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Remote"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "go",
+      "LLM"
+    ],
+    "posted": "2026-11-16T14:31:09.551Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$11B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:5ea63595-d6ed-479e-8192-bf393382c34c",
+    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
+    "company": "OpenAI",
+    "companyDomain": "openai.com",
+    "role": "Full Stack Software Engineer, Travel",
+    "applyUrl": "https://go.landed.jobs/qf1o0cm",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [],
+    "posted": "2026-11-15T21:10:17.443Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$852B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:9fba5d7f-c31c-41d8-a3b3-606b4aeaf001",
+    "companyId": "company_cf0f4f756728eba78dd85d7cf3358e9d",
+    "company": "Perplexity",
+    "companyDomain": "perplexity.ai",
+    "role": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
+    "applyUrl": "https://go.landed.jobs/05d4ju0",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "staff",
+    "skills": [
+      "Python",
+      "TypeScript",
+      "Go",
+      "Rust"
+    ],
+    "posted": "2026-11-15T01:03:15.716Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$18B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:b5c2b2bf-a4d1-4b7c-ab1b-3f10e701807a",
     "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
     "company": "Anthropic",
@@ -192,26 +269,81 @@
     ]
   },
   {
-    "dedupeKey": "job:80268134-f1d8-4ee7-a9f8-aa7e87f70c62",
-    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
-    "company": "Harvey",
-    "companyDomain": "harvey.ai",
-    "role": "Legal Engineering Manager, Product Specialist",
-    "applyUrl": "https://go.landed.jobs/0dyhxa4",
-    "location": "🌐 Remote (US)",
+    "dedupeKey": "job:0d82e1ad-152d-423f-902f-814ee40856e6",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Senior Product Manager - NVIDIA Sentry and DOCA Security",
+    "applyUrl": "https://go.landed.jobs/kc1x5tg",
+    "location": "Santa Clara, CA",
     "locations": [
-      "Chicago, IL"
+      "Santa Clara, CA"
     ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "mid",
-    "skills": [],
-    "posted": "2026-11-13T23:56:19.213Z",
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "AI agents"
+    ],
+    "posted": "2026-11-14T00:00:00.000Z",
     "companyTier": "A",
     "companyBadges": [
-      "TrueUp Hot 200",
-      "$11B valuation"
+      "TrueUp Power 50",
+      "$4.9T valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:9ad59ea5-22c1-45ee-b026-32925c40d0c5",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Senior System Software Engineer, NPI Data Center",
+    "applyUrl": "https://go.landed.jobs/umrjqa4",
+    "location": "Santa Clara, CA",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "python"
+    ],
+    "posted": "2026-11-14T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:d84b69be-2263-43ff-803c-9d4bf77a2dbb",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Deep Learning Framework Communications Engineer - New College Grad 2026",
+    "applyUrl": "https://go.landed.jobs/jzq5q4h",
+    "location": "Santa Clara, CA",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "multi-GPU",
+      "PyTorch",
+      "LLM",
+      "vLLM"
+    ],
+    "posted": "2026-11-14T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
     ]
   },
   {
@@ -580,59 +712,6 @@
     ]
   },
   {
-    "dedupeKey": "job:c6cd2ebd-6ba4-4787-917c-0dcb4b78c8fb",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Senior Staff Software Engineer",
-    "applyUrl": "https://go.landed.jobs/jedy8v4",
-    "location": "Santa Clara, CA",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "staff",
-    "skills": [
-      "containerization",
-      "Terraform",
-      "AWS",
-      "Google Cloud",
-      "Azure"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:fc6631c9-d151-43ef-9b5a-186b3278a453",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Principal Quantum Error Correction Research Scientist, Applied Research",
-    "applyUrl": "https://go.landed.jobs/zp19bma",
-    "location": "Redmond, WA · Santa Clara, CA",
-    "locations": [
-      "Redmond, WA",
-      "Santa Clara, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "research_science",
-    "level": "principal",
-    "skills": [],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:60ed84db-d266-487e-9d22-111eb7471628",
     "companyId": "company_cf0f4f756728eba78dd85d7cf3358e9d",
     "company": "Perplexity",
@@ -791,31 +870,6 @@
     ]
   },
   {
-    "dedupeKey": "job:3068a3a7-8065-4d31-9b43-0e62b0206996",
-    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
-    "company": "OpenAI",
-    "companyDomain": "openai.com",
-    "role": "Product Designer, Physical Engineering",
-    "applyUrl": "https://go.landed.jobs/mt8bqxd",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "",
-    "skills": [
-      "product strategy"
-    ],
-    "posted": "2026-11-12T17:44:23.420Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$852B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:4344cab7-0f6e-40b3-b7fa-3820beb31228",
     "companyId": "company_c14044aac3dab91fd1d4b258036f0ad9",
     "company": "Mistral",
@@ -849,33 +903,6 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$13.8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:41473456-50e4-49fc-9f19-b75bd262c312",
-    "companyId": "company_cf0f4f756728eba78dd85d7cf3358e9d",
-    "company": "Perplexity",
-    "companyDomain": "perplexity.ai",
-    "role": "Product Manager, Legal",
-    "applyUrl": "https://go.landed.jobs/0z00kbm",
-    "location": "San Francisco, CA · New York City, NY",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "product_management",
-    "level": "mid",
-    "skills": [
-      "go",
-      "LLMs"
-    ],
-    "posted": "2026-11-12T03:21:16.967Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$18B valuation"
     ]
   },
   {
@@ -932,31 +959,6 @@
     "companyBadges": [
       "$1.9B valuation",
       "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:07f1a094-d918-460d-bce8-924fdfd9598f",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Senior Manager, Developer Tooling and QE",
-    "applyUrl": "https://go.landed.jobs/39bdmq6",
-    "location": "Santa Clara, CA",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "CI/CD"
-    ],
-    "posted": "2026-11-12T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
     ]
   },
   {
@@ -1519,65 +1521,6 @@
     ]
   },
   {
-    "dedupeKey": "job:10275dff-5ea5-45a5-b8c2-5565e5e0d2c3",
-    "companyId": "company_e2d214894af79bc48397ee7d0a069db1",
-    "company": "ElevenLabs",
-    "companyDomain": "elevenlabs.io",
-    "role": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
-    "applyUrl": "https://go.landed.jobs/wx3oe8e",
-    "location": "🌐 Remote (Ireland, US, Poland +1)",
-    "locations": [
-      "Ireland",
-      "US",
-      "Poland",
-      "UK"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Python",
-      "payment processing",
-      "Kubernetes"
-    ],
-    "posted": "2026-11-02T19:36:35.946Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$11B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:6870a727-0a15-4070-9e71-3379a15a3099",
-    "companyId": "company_e2d214894af79bc48397ee7d0a069db1",
-    "company": "ElevenLabs",
-    "companyDomain": "elevenlabs.io",
-    "role": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
-    "applyUrl": "https://go.landed.jobs/w45bd4o",
-    "location": "🌐 Remote (Ireland, US, Poland +1)",
-    "locations": [
-      "Ireland",
-      "US",
-      "Poland",
-      "UK"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Python",
-      "Kubernetes"
-    ],
-    "posted": "2026-11-02T19:36:14.051Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$11B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:fb10904c-1931-4446-92bb-fcbcb6890bcc",
     "companyId": "company_eae8f9a4edd28bb7aeab7956056f67cb",
     "company": "Reflection",
@@ -1668,6 +1611,34 @@
     ]
   },
   {
+    "dedupeKey": "job:30a0dad9-cbc5-44fd-bd07-1604f13a2f0c",
+    "companyId": "company_e2d214894af79bc48397ee7d0a069db1",
+    "company": "ElevenLabs",
+    "companyDomain": "elevenlabs.io",
+    "role": "Full-Stack Engineer - Ads Engine",
+    "applyUrl": "https://go.landed.jobs/4j5kyc6",
+    "location": "🌐 Remote (UK, US, Poland +1)",
+    "locations": [
+      "UK",
+      "US",
+      "Poland",
+      "Bulgaria"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "LLMs"
+    ],
+    "posted": "2026-11-02T05:31:03.633Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$11B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:14dae3aa-2bd0-4e18-9f32-6d85cf1d3774",
     "companyId": "company_f9ac8c9375c2a8bc87c6ff9dee5a884e",
     "company": "Liquid AI",
@@ -1688,6 +1659,41 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$2.3B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:f21a9b2c-bb4b-4bb5-af0d-29fc5850d188",
+    "companyId": "company_e2d214894af79bc48397ee7d0a069db1",
+    "company": "ElevenLabs",
+    "companyDomain": "elevenlabs.io",
+    "role": "Full-Stack Engineer - ElevenCreative Enterprise",
+    "applyUrl": "https://go.landed.jobs/mgykr9n",
+    "location": "🌐 Remote (UK, US, Poland +1)",
+    "locations": [
+      "UK",
+      "US",
+      "Poland",
+      "Bulgaria"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "full-stack product engineer",
+      "integrations",
+      "APIs",
+      "auth",
+      "enterprise plumbing such as SSO, access control and security reviews",
+      "localization or TMS integrations",
+      "brand or marketing tooling",
+      "adtech"
+    ],
+    "posted": "2026-10-29T12:53:03.378Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$11B valuation"
     ]
   },
   {
@@ -2082,78 +2088,6 @@
       "evaluation infrastructure"
     ],
     "posted": "2026-10-19T18:23:09.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S16",
-      "$29B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:b4e9bf14-2102-41aa-9143-b4e29635cc63",
-    "companyId": "company_360220ea93a91c899b62cb937583292e",
-    "company": "Scale AI",
-    "companyDomain": "scale.com",
-    "role": "AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)",
-    "applyUrl": "https://go.landed.jobs/ky9065n",
-    "location": "🌐 Remote (Canada, UK, US)",
-    "locations": [
-      "Canada",
-      "UK",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "",
-    "skills": [
-      "controlled experiments",
-      "evaluation harnesses",
-      "agent environments",
-      "datasets",
-      "monitoring methods",
-      "post-training experiments",
-      "reproducible code",
-      "experiment logs",
-      "technical writing"
-    ],
-    "posted": "2026-10-16T18:44:43.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S16",
-      "$29B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:dbfcaac9-fd6d-4728-b12b-33f20e6c2e5f",
-    "companyId": "company_360220ea93a91c899b62cb937583292e",
-    "company": "Scale AI",
-    "companyDomain": "scale.com",
-    "role": "Web Designer, Brand Web Experience",
-    "applyUrl": "https://go.landed.jobs/7icn49a",
-    "location": "New York City, NY · San Francisco, CA",
-    "locations": [
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "responsive design",
-      "wireframes",
-      "user flows",
-      "prototypes",
-      "high-fidelity mockups",
-      "accessibility",
-      "usability",
-      "web performance",
-      "AI-powered design and development tools",
-      "rapid prototyping",
-      "motion graphics",
-      "Sanity"
-    ],
-    "posted": "2026-10-16T18:32:47.000Z",
     "companyTier": "A",
     "companyBadges": [
       "YC S16",
@@ -2658,7 +2592,7 @@
     "companyId": "company_9b878f9baa905a12f9fc76a14cc356a0",
     "company": "RunwayML",
     "companyDomain": "runwayml.com",
-    "role": "Forward Deployed Engineer",
+    "role": "Technical Deployment Strategist",
     "applyUrl": "https://go.landed.jobs/mgeb69w",
     "location": "🌐 Remote (US)",
     "locations": [
@@ -2941,6 +2875,78 @@
     "companyTier": "C",
     "companyBadges": [
       "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:b4e9bf14-2102-41aa-9143-b4e29635cc63",
+    "companyId": "company_360220ea93a91c899b62cb937583292e",
+    "company": "Scale AI",
+    "companyDomain": "scale.com",
+    "role": "AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)",
+    "applyUrl": "https://go.landed.jobs/ky9065n",
+    "location": "🌐 Remote (Canada, UK, US)",
+    "locations": [
+      "Canada",
+      "UK",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
+    "level": "",
+    "skills": [
+      "controlled experiments",
+      "evaluation harnesses",
+      "agent environments",
+      "datasets",
+      "monitoring methods",
+      "post-training experiments",
+      "reproducible code",
+      "experiment logs",
+      "technical writing"
+    ],
+    "posted": "2026-10-16T18:44:43.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S16",
+      "$29B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:dbfcaac9-fd6d-4728-b12b-33f20e6c2e5f",
+    "companyId": "company_360220ea93a91c899b62cb937583292e",
+    "company": "Scale AI",
+    "companyDomain": "scale.com",
+    "role": "Web Designer, Brand Web Experience",
+    "applyUrl": "https://go.landed.jobs/7icn49a",
+    "location": "New York City, NY · San Francisco, CA",
+    "locations": [
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "responsive design",
+      "wireframes",
+      "user flows",
+      "prototypes",
+      "high-fidelity mockups",
+      "accessibility",
+      "usability",
+      "web performance",
+      "AI-powered design and development tools",
+      "rapid prototyping",
+      "motion graphics",
+      "Sanity"
+    ],
+    "posted": "2026-10-16T18:32:47.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S16",
+      "$29B valuation"
     ]
   },
   {
