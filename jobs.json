@@ -1,5 +1,446 @@
 [
   {
+    "dedupeKey": "job:1674a939-d4e2-4d44-951a-63c5774053f3",
+    "companyId": "company_3e6e700fce31d895dcc1f80739f15653",
+    "company": "Baseten",
+    "companyDomain": "baseten.co",
+    "role": "Site Reliability / Cloud Platform Engineer (Agent Infra)",
+    "applyUrl": "https://go.landed.jobs/7c9yaup",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "Spark",
+      "observability",
+      "Terraform"
+    ],
+    "posted": "2026-11-24T23:07:43.080Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$13B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:79e00b24-9abe-46e6-930f-6f5bb7994dde",
+    "companyId": "company_35c950f8cc62e891728aff2c5bca0931",
+    "company": "Thinking Machines Lab",
+    "companyDomain": "thinkingmachines.ai",
+    "role": "Research, Model Behavior",
+    "applyUrl": "https://go.landed.jobs/0yknsyg",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "",
+    "skills": [
+      "large language models"
+    ],
+    "posted": "2026-11-24T18:19:36.628Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$10B valuation",
+      "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:32c30895-3adb-4ac4-8590-b7d017dfb928",
+    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
+    "company": "OpenAI",
+    "companyDomain": "openai.com",
+    "role": "Integrations Architect - Enterprise Systems",
+    "applyUrl": "https://go.landed.jobs/8gdcb5s",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [],
+    "posted": "2026-11-24T15:15:44.520Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$852B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:063e2b70-94c6-44f0-9e38-c302a0fe9b6d",
+    "companyId": "company_cf0f4f756728eba78dd85d7cf3358e9d",
+    "company": "Perplexity",
+    "companyDomain": "perplexity.ai",
+    "role": "Engineering Manager (Agent Verticals)",
+    "applyUrl": "https://go.landed.jobs/lsjwjcr",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "LLM"
+    ],
+    "posted": "2026-11-23T23:46:42.354Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$18B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:004c1a3a-be27-4929-ae94-7861b0feebc9",
+    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
+    "company": "OpenAI",
+    "companyDomain": "openai.com",
+    "role": "Cyber Partner Applied AI Architect",
+    "applyUrl": "https://go.landed.jobs/5f51nhe",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Washington, D.C., DC",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [],
+    "posted": "2026-11-23T23:10:45.050Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$852B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:57d383cb-b1d9-4d89-a903-12a7969068e0",
+    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
+    "company": "OpenAI",
+    "companyDomain": "openai.com",
+    "role": "Applied AI Engineer, Mid-Market Enterprise",
+    "applyUrl": "https://go.landed.jobs/o148b5z",
+    "location": "San Francisco, CA +2",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY",
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "mid",
+    "skills": [
+      "go",
+      "Python",
+      "TypeScript",
+      "JavaScript",
+      "observability"
+    ],
+    "posted": "2026-11-23T22:27:15.762Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$852B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:144eb4b9-ad4b-4115-9e77-51a22d802fbd",
+    "companyId": "company_360220ea93a91c899b62cb937583292e",
+    "company": "Scale AI",
+    "companyDomain": "scale.com",
+    "role": "Strategic Projects Lead, Cyber",
+    "applyUrl": "https://go.landed.jobs/vj429cy",
+    "location": "San Francisco, CA · New York City, NY",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "security",
+    "level": "mid",
+    "skills": [
+      "penetration testing"
+    ],
+    "posted": "2026-11-23T21:22:18.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S16",
+      "$29B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:52b9fa2b-4fbb-426a-9127-28a40e4f8fcd",
+    "companyId": "company_6cd957379a1b5ae0fdd1bfa0636841b4",
+    "company": "Together AI",
+    "companyDomain": "together.ai",
+    "role": "Partner Solutions Architect",
+    "applyUrl": "https://go.landed.jobs/r1b8nql",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-23T21:21:11.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$8.3B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:5d89f064-d7f1-4de1-83eb-753b99c8055e",
+    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
+    "company": "Harvey",
+    "companyDomain": "harvey.ai",
+    "role": "Legal Engineering Manager, In-House (Corporate)",
+    "applyUrl": "https://go.landed.jobs/mcs19cj",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "go"
+    ],
+    "posted": "2026-11-23T21:14:27.312Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$11B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:ccd2625a-7f61-459f-8337-8411751e2a60",
+    "companyId": "company_cf0f4f756728eba78dd85d7cf3358e9d",
+    "company": "Perplexity",
+    "companyDomain": "perplexity.ai",
+    "role": "Member of Technical Staff (Software Engineer, SPACE - Sandbox Platform)",
+    "applyUrl": "https://go.landed.jobs/mbr81x9",
+    "location": "San Francisco, CA · New York City, NY",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "API design",
+      "distributed systems",
+      "AWS",
+      "Kubernetes"
+    ],
+    "posted": "2026-11-23T20:54:59.960Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$18B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:44ba2f8c-d1f0-4d2d-bcc5-6fd7b96e2a4c",
+    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
+    "company": "Anthropic",
+    "companyDomain": "anthropic.com",
+    "role": "Applied AI Architect, Technology Partnerships",
+    "applyUrl": "https://go.landed.jobs/ircotyo",
+    "location": "San Francisco, CA · New York City, NY",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-23T20:50:45.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$965B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:08248a20-627e-4fc6-9ddb-25ed3eab6495",
+    "companyId": "company_42a8f1d1188c17e31fe4eb6100983cc5",
+    "company": "Modal",
+    "companyDomain": "modal.com",
+    "role": "Security Field Engineer",
+    "applyUrl": "https://go.landed.jobs/t50gy5j",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [],
+    "posted": "2026-11-23T18:52:17.588Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$4.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:7f21a758-1d88-4d2e-b229-49c66a451794",
+    "companyId": "company_6cd957379a1b5ae0fdd1bfa0636841b4",
+    "company": "Together AI",
+    "companyDomain": "together.ai",
+    "role": "Forward Deployed Engineer, Applied AI",
+    "applyUrl": "https://go.landed.jobs/ozrdcjg",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "mid",
+    "skills": [
+      "go"
+    ],
+    "posted": "2026-11-23T17:35:18.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$8.3B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:61e90693-c154-47cf-b8d9-6bec03587b89",
+    "companyId": "company_505aadec12321d72d448e7366c49ab96",
+    "company": "Databricks",
+    "companyDomain": "databricks.com",
+    "role": "Solutions Architect - Financial Services (Insurance)",
+    "applyUrl": "https://go.landed.jobs/8ifnol0",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Illinois, IL",
+      "Massachusetts, MA",
+      "New Jersey, NJ",
+      "New York City, NY",
+      "California, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [
+      "Databricks",
+      "Python",
+      "SQL",
+      "AWS",
+      "Azure",
+      "Snowflake"
+    ],
+    "posted": "2026-11-23T16:29:02.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$190B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:1932ee9e-8071-452b-967f-15e17fe32757",
+    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
+    "company": "Anthropic",
+    "companyDomain": "anthropic.com",
+    "role": "Industry Principal, Insurance",
+    "applyUrl": "https://go.landed.jobs/2ymqbpr",
+    "location": "San Francisco, CA · New York City, NY",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "principal",
+    "skills": [
+      "product strategy"
+    ],
+    "posted": "2026-11-23T15:43:32.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$965B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:9d7a19ae-96a1-46c9-9918-bd47105c87db",
+    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
+    "company": "Anthropic",
+    "companyDomain": "anthropic.com",
+    "role": "Software Engineer, Model-to-Product Behavior Engineering",
+    "applyUrl": "https://go.landed.jobs/ixbx1zf",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "CI/CD",
+      "LLMs",
+      "A/B testing"
+    ],
+    "posted": "2026-11-23T14:45:28.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$965B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:e89ea7ab-18ce-467c-bd0c-5079ec56be1b",
+    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
+    "company": "Harvey",
+    "companyDomain": "harvey.ai",
+    "role": "Legal Engineering Manager, Custom Solutions",
+    "applyUrl": "https://go.landed.jobs/2gnpbva",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-23T14:26:12.643Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$11B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:6ac7af4b-431e-45ce-babe-3e7ddb5cb902",
     "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
     "company": "OpenAI",
@@ -41,75 +482,6 @@
       "LLM"
     ],
     "posted": "2026-11-22T17:19:07.642Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$852B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:e5b0aec0-1f89-4fdd-95e6-06e89036790f",
-    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
-    "company": "OpenAI",
-    "companyDomain": "openai.com",
-    "role": "Research Engineer / Research Scientist - Post Training, Memory",
-    "applyUrl": "https://go.landed.jobs/azloq1b",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [],
-    "posted": "2026-11-22T17:17:35.967Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$852B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:cf67cb54-2d4b-4cd9-8625-21da8b14caaa",
-    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
-    "company": "OpenAI",
-    "companyDomain": "openai.com",
-    "role": "Research Engineer/Research Scientist- Post Training, Model Experience",
-    "applyUrl": "https://go.landed.jobs/cdzivkh",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [],
-    "posted": "2026-11-22T17:14:45.574Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$852B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:f0b37ed4-ff30-461d-8cd7-4b2dd85a6982",
-    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
-    "company": "OpenAI",
-    "companyDomain": "openai.com",
-    "role": "Research Engineer/Research Scientist-Post Training, Proactivity",
-    "applyUrl": "https://go.landed.jobs/h1hv7xi",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [],
-    "posted": "2026-11-22T17:12:41.400Z",
     "companyTier": "A",
     "companyBadges": [
       "TrueUp Hot 200",
@@ -201,7 +573,7 @@
     "companyId": "company_6cd957379a1b5ae0fdd1bfa0636841b4",
     "company": "Together AI",
     "companyDomain": "together.ai",
-    "role": "Solutions Architect",
+    "role": "Solutions Architect, East",
     "applyUrl": "https://go.landed.jobs/bqwwb8q",
     "location": "🌐 Remote (US)",
     "locations": [
@@ -396,31 +768,6 @@
     ]
   },
   {
-    "dedupeKey": "job:84aff8e6-3f79-428f-bc00-1cd92e1b02dd",
-    "companyId": "company_cf0f4f756728eba78dd85d7cf3358e9d",
-    "company": "Perplexity",
-    "companyDomain": "perplexity.ai",
-    "role": "Engineering Manager (Agent Verticals)",
-    "applyUrl": "https://go.landed.jobs/us7dugl",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "LLM"
-    ],
-    "posted": "2026-11-20T19:04:54.041Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$18B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:98c2b42c-0fb8-4f50-8a0d-0ebfa5ee1e14",
     "companyId": "company_3e6e700fce31d895dcc1f80739f15653",
     "company": "Baseten",
@@ -481,95 +828,6 @@
       "Azure"
     ],
     "posted": "2026-11-20T18:05:27.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$965B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:86bfb1b9-cf76-4b41-8e0e-4bb02858a73d",
-    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
-    "company": "Anthropic",
-    "companyDomain": "anthropic.com",
-    "role": "Principal Engineer Capacity/Compute",
-    "applyUrl": "https://go.landed.jobs/oiwqv88",
-    "location": "Seattle, WA · San Francisco, CA",
-    "locations": [
-      "Seattle, WA",
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "principal",
-    "skills": [
-      "Kubernetes",
-      "observability",
-      "Amazon Web Services",
-      "Google Cloud",
-      "Azure"
-    ],
-    "posted": "2026-11-20T18:05:21.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$965B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:6b665dd5-e3ef-4741-9763-d19cc7de5b72",
-    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
-    "company": "Anthropic",
-    "companyDomain": "anthropic.com",
-    "role": "Principal Engineer Capacity/Compute",
-    "applyUrl": "https://go.landed.jobs/avs1jj7",
-    "location": "New York City, NY · San Francisco, CA",
-    "locations": [
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "principal",
-    "skills": [
-      "Kubernetes",
-      "observability",
-      "Amazon Web Services",
-      "Google Cloud",
-      "Azure"
-    ],
-    "posted": "2026-11-20T18:05:11.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$965B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:7256c1fb-e64d-4025-af86-4c37bc5811d0",
-    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
-    "company": "Anthropic",
-    "companyDomain": "anthropic.com",
-    "role": "Principal Engineer Capacity/Compute",
-    "applyUrl": "https://go.landed.jobs/xbcos1u",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "principal",
-    "skills": [
-      "Kubernetes",
-      "observability",
-      "Amazon Web Services",
-      "Google Cloud",
-      "Azure"
-    ],
-    "posted": "2026-11-20T18:04:58.000Z",
     "companyTier": "A",
     "companyBadges": [
       "TrueUp Hot 200",
@@ -695,37 +953,6 @@
     ]
   },
   {
-    "dedupeKey": "job:21582fb8-b2d1-4290-bab3-9804da60abf0",
-    "companyId": "company_505aadec12321d72d448e7366c49ab96",
-    "company": "Databricks",
-    "companyDomain": "databricks.com",
-    "role": "Solutions Architect - Games",
-    "applyUrl": "https://go.landed.jobs/w4cpofi",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "California, CA",
-      "North Carolina, NC"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "",
-    "skills": [
-      "Databricks",
-      "Python",
-      "SQL",
-      "AWS",
-      "Azure",
-      "Snowflake"
-    ],
-    "posted": "2026-11-19T14:16:40.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$190B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:a1390e6f-8222-4692-bf33-7bbedb42753d",
     "companyId": "company_f9ac8c9375c2a8bc87c6ff9dee5a884e",
     "company": "Liquid AI",
@@ -770,52 +997,6 @@
     "level": "",
     "skills": [],
     "posted": "2026-11-18T18:16:51.376Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$11B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:ff1145ac-d05d-49d2-aecb-4d040a78e191",
-    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
-    "company": "Harvey",
-    "companyDomain": "harvey.ai",
-    "role": "GTM Technology Product Owner - Quote to Cash",
-    "applyUrl": "https://go.landed.jobs/53e1cv5",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-18T15:25:14.446Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$11B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:4609e3b9-4f87-4454-aba4-9b312de945e0",
-    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
-    "company": "Harvey",
-    "companyDomain": "harvey.ai",
-    "role": "GTM Technology Product Owner - Quote to Cash",
-    "applyUrl": "https://go.landed.jobs/4jyrr0e",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-18T15:25:10.701Z",
     "companyTier": "A",
     "companyBadges": [
       "TrueUp Hot 200",
@@ -1034,38 +1215,6 @@
     ]
   },
   {
-    "dedupeKey": "job:bf9fa1d5-80d1-432b-a6b0-740e60dcdf55",
-    "companyId": "company_3e6e700fce31d895dcc1f80739f15653",
-    "company": "Baseten",
-    "companyDomain": "baseten.co",
-    "role": "Sales Analytics Engineer",
-    "applyUrl": "https://go.landed.jobs/31pve02",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "go",
-      "dbt",
-      "SQL",
-      "Python",
-      "Snowflake",
-      "BigQuery",
-      "Databricks",
-      "Salesforce"
-    ],
-    "posted": "2026-11-16T00:54:40.620Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$13B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:9fba5d7f-c31c-41d8-a3b3-606b4aeaf001",
     "companyId": "company_cf0f4f756728eba78dd85d7cf3358e9d",
     "company": "Perplexity",
@@ -1169,41 +1318,6 @@
     "companyBadges": [
       "TrueUp Power 50",
       "$4.9T valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:26dfbb85-b73a-4de4-9ba2-c9d1694cb10c",
-    "companyId": "company_cf0f4f756728eba78dd85d7cf3358e9d",
-    "company": "Perplexity",
-    "companyDomain": "perplexity.ai",
-    "role": "Member of Technical Staff (Software Engineer, Cybersecurity Products)",
-    "applyUrl": "https://go.landed.jobs/n3wol41",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA",
-      "US",
-      "London, UK",
-      "Belgrade, Serbia",
-      "New York City, NY"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "security",
-    "level": "mid",
-    "skills": [
-      "penetration testing",
-      "CI/CD",
-      "Python",
-      "TypeScript",
-      "Go",
-      "Rust",
-      "LLM"
-    ],
-    "posted": "2026-11-13T16:21:54.542Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$18B valuation"
     ]
   },
   {
@@ -1958,68 +2072,6 @@
     ]
   },
   {
-    "dedupeKey": "job:84c11fb8-72a4-44ec-9566-6cca4503d050",
-    "companyId": "company_6cd957379a1b5ae0fdd1bfa0636841b4",
-    "company": "Together AI",
-    "companyDomain": "together.ai",
-    "role": "(Senior/Junior AI Inference Reliability Engineer, Compute Infra",
-    "applyUrl": "https://go.landed.jobs/n5k3d70",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "Kubernetes",
-      "distributed systems",
-      "node"
-    ],
-    "posted": "2026-10-27T19:36:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$8.3B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:a5995c93-cc07-4a69-954e-2f1725750928",
-    "companyId": "company_35c950f8cc62e891728aff2c5bca0931",
-    "company": "Thinking Machines Lab",
-    "companyDomain": "thinkingmachines.ai",
-    "role": "Software Engineer, Privacy & Data Governance",
-    "applyUrl": "https://go.landed.jobs/z4yj9tv",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "data classification tagging",
-      "retention jobs",
-      "deletion pipelines",
-      "data classifiers",
-      "policy-as-code",
-      "CI checks",
-      "pipeline enforcement",
-      "data lineage",
-      "metadata",
-      "policy-engine tooling",
-      "large-scale deletion and retention systems"
-    ],
-    "posted": "2026-10-27T18:52:00.446Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$10B valuation",
-      "Seed"
-    ]
-  },
-  {
     "dedupeKey": "job:59216552-8fcd-4381-aa19-9591bc019865",
     "companyId": "company_c14044aac3dab91fd1d4b258036f0ad9",
     "company": "Mistral",
@@ -2111,35 +2163,28 @@
     ]
   },
   {
-    "dedupeKey": "job:6d1d1b78-2e1e-4f8b-8390-8a2ba6355262",
-    "companyId": "company_6cd957379a1b5ae0fdd1bfa0636841b4",
-    "company": "Together AI",
-    "companyDomain": "together.ai",
-    "role": "Technical Writer Intern, Developer Experience (Summer 2027)",
-    "applyUrl": "https://go.landed.jobs/k1vjbf8",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:248cbed2-5aef-4b99-a294-f7be4471e56e",
+    "companyId": "company_da7d084c4b83ee37799f469a94e0bce8",
+    "company": "Stability AI",
+    "companyDomain": "stability.ai",
+    "role": "Creative Technologist, Audio",
+    "applyUrl": "https://go.landed.jobs/x4xslvq",
+    "location": "🌐 Remote (US)",
     "locations": [
-      "San Francisco, CA"
+      "US"
     ],
-    "remote": "",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "intern",
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
+    "level": "mid",
     "skills": [
-      "Python",
-      "TypeScript",
-      "Git",
-      "Markdown/MDX",
-      "static site generators",
-      "Mintlify",
-      "Docusaurus",
-      "GitHub Actions"
+      "LoRA",
+      "node"
     ],
-    "posted": "2026-10-26T18:34:44.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-24T03:27:45.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Hot 200",
-      "$8.3B valuation"
+      "$1B valuation"
     ]
   },
   {
@@ -3058,43 +3103,6 @@
     ]
   },
   {
-    "dedupeKey": "job:dbfcaac9-fd6d-4728-b12b-33f20e6c2e5f",
-    "companyId": "company_360220ea93a91c899b62cb937583292e",
-    "company": "Scale AI",
-    "companyDomain": "scale.com",
-    "role": "Web Designer, Brand Web Experience",
-    "applyUrl": "https://go.landed.jobs/7icn49a",
-    "location": "New York City, NY · San Francisco, CA",
-    "locations": [
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "responsive design",
-      "wireframes",
-      "user flows",
-      "prototypes",
-      "high-fidelity mockups",
-      "accessibility",
-      "usability",
-      "web performance",
-      "AI-powered design and development tools",
-      "rapid prototyping",
-      "motion graphics",
-      "Sanity"
-    ],
-    "posted": "2026-10-16T18:32:47.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S16",
-      "$29B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:c4548867-d3e9-4900-842c-ff3017856640",
     "companyId": "company_42a8f1d1188c17e31fe4eb6100983cc5",
     "company": "Modal",
@@ -3126,35 +3134,6 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$4.7B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:a79b5c41-e302-4b40-a094-811ef431f19d",
-    "companyId": "company_9b878f9baa905a12f9fc76a14cc356a0",
-    "company": "RunwayML",
-    "companyDomain": "runwayml.com",
-    "role": "Pricing Lead",
-    "applyUrl": "https://go.landed.jobs/8snv2hf",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "staff",
-    "skills": [
-      "pricing & packaging",
-      "usage, credit, or consumption-based pricing",
-      "cost-to-serve and margin model",
-      "PLG subscription products"
-    ],
-    "posted": "2026-10-14T16:39:43.262Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$5.3B valuation",
-      "Series D"
     ]
   },
   {
