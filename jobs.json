@@ -1956,68 +1956,6 @@
     ]
   },
   {
-    "dedupeKey": "job:59216552-8fcd-4381-aa19-9591bc019865",
-    "companyId": "company_c14044aac3dab91fd1d4b258036f0ad9",
-    "company": "Mistral",
-    "companyDomain": "mistral.ai",
-    "role": "Field CTO, US",
-    "applyUrl": "https://go.landed.jobs/3iv984a",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "c_level",
-    "skills": [
-      "open-weight models",
-      "European data sovereignty and on-premise deployment"
-    ],
-    "posted": "2026-10-27T18:04:59.287Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$13.8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:027d6264-9e3f-42e9-8c1c-defe3670e5bd",
-    "companyId": "company_360220ea93a91c899b62cb937583292e",
-    "company": "Scale AI",
-    "companyDomain": "scale.com",
-    "role": "Frontier Agent Engineering Manager, Enterprise",
-    "applyUrl": "https://go.landed.jobs/7gtm315",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "LangChain",
-      "LlamaIndex",
-      "HuggingFace",
-      "OpenAI API",
-      "AWS",
-      "GCP",
-      "Azure",
-      "Docker",
-      "Kubernetes",
-      "Terraform",
-      "Bicep"
-    ],
-    "posted": "2026-10-27T13:08:16.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S16",
-      "$29B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:e7b58c75-4284-40c4-8e70-e7bd2b1bec7e",
     "companyId": "company_9b878f9baa905a12f9fc76a14cc356a0",
     "company": "RunwayML",
@@ -2642,6 +2580,68 @@
     "companyTier": "C",
     "companyBadges": [
       "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:59216552-8fcd-4381-aa19-9591bc019865",
+    "companyId": "company_c14044aac3dab91fd1d4b258036f0ad9",
+    "company": "Mistral",
+    "companyDomain": "mistral.ai",
+    "role": "Field CTO, US",
+    "applyUrl": "https://go.landed.jobs/3iv984a",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "c_level",
+    "skills": [
+      "open-weight models",
+      "European data sovereignty and on-premise deployment"
+    ],
+    "posted": "2026-10-27T18:04:59.287Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$13.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:027d6264-9e3f-42e9-8c1c-defe3670e5bd",
+    "companyId": "company_360220ea93a91c899b62cb937583292e",
+    "company": "Scale AI",
+    "companyDomain": "scale.com",
+    "role": "Frontier Agent Engineering Manager, Enterprise",
+    "applyUrl": "https://go.landed.jobs/7gtm315",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "LangChain",
+      "LlamaIndex",
+      "HuggingFace",
+      "OpenAI API",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Bicep"
+    ],
+    "posted": "2026-10-27T13:08:16.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S16",
+      "$29B valuation"
     ]
   },
   {
